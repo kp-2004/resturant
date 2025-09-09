@@ -46,7 +46,7 @@ export default function () {
         </a>
         <nav className="navbar active" ref={navbarRef}>
             <a href="#home">home</a>
-            <a href="#abou">about</a>
+            <a href="#about">about</a>
             <a href="#menu">menu</a>
             <a href="#products">products</a>
             <a href="#contact">contact</a>
