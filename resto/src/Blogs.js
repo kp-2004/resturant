@@ -17,7 +17,7 @@ export default function () {
     ];
   return (
     <div>
-      <section className="blogs" id="blog">
+      <section className="blogs" id="blogs">
         <h1 className="heading">
             our <span> blog </span>
         </h1>
